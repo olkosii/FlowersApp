@@ -10,16 +10,18 @@ using Xamarin.Forms.Xaml;
 namespace FlowersApp
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class ClientsPage : ContentPage
+    public partial class NewClientPage : ContentPage
     {
-        public ClientsPage()
+        public NewClientPage()
         {
             InitializeComponent();
         }
 
-        private async void ToolbarItem_Clicked(object sender, EventArgs e)
+        private async void saveButton_Clicked(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new NewClientPage());
+            //do save procedure
+
+            await Navigation.PushAsync(new HomePage());
         }
     }
 }

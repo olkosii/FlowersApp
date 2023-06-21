@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FlowersApp.NewClientPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry x:Name="clientNameEntry"
+                   Placeholder="Client Name" />
+            <Entry x:Name="addressEntry"
+                   Placeholder="Address" />
+            <Entry x:Name="phoneNumberEntry"
+                   Placeholder="PhoneNumber" 
+                   Keyboard="Telephone"/>
+            <Button x:Name="saveButton"
+                    Text="Save"
+                    Clicked="saveButton_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
