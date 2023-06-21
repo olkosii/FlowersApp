@@ -12,6 +12,10 @@ namespace FlowersApp
         public MainPage()
         {
             InitializeComponent();
+
+            var assembly = typeof(MainPage);
+
+            iconImage.Source = ImageSource.FromResource("FlowersApp.Assets.Images.flower-bouquet.png");
         }
 
         private async void loginButton_Clicked(object sender, EventArgs e)

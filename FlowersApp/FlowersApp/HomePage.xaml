@@ -4,6 +4,8 @@
              xmlns:local="clr-namespace:FlowersApp"
              x:Class="FlowersApp.HomePage">
 
-    <local:ClientsPage Title="Clients"/>
-    <local:OrdersPage Title="Orders"/>
+    <local:ClientsPage Title="Clients"
+                       IconImageSource="ic_action_users.png"/>
+    <local:OrdersPage Title="Orders"
+                      IconImageSource="ic_action_flower.png"/>
 </TabbedPage>
