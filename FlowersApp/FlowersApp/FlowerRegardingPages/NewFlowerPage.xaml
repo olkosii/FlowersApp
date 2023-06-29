@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FlowersApp.FlowerRegardingPages.NewFlowerPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry x:Name="typeNameEntry" 
+                   Placeholder="Type name" />
+            <Entry x:Name="lengthEntry"
+                   Placeholder="Length" />
+            <Entry x:Name="countPerPackageEntry"
+                   Placeholder="Quantity in a package" />
+            <Entry x:Name="pricePerUnitEntry"
+                   Placeholder="Price per unit" />
+            <Entry x:Name="imageEntry"
+                   Placeholder="Image link" />
+            <Button x:Name="saveButton"
+                   Text="Save"
+                   Clicked="saveButton_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
