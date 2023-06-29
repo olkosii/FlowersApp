@@ -1,10 +1,10 @@
 ﻿using Android.App;
-using FlowersApp.Repositories;
 using System;
 using Firebase.Auth;
 using System.Threading.Tasks;
 using static Android.Provider.SyncStateContract;
 using Xamarin.Forms;
+using FlowersApp.Repositories.Interfaces;
 
 [assembly: Dependency(typeof(FlowersApp.Droid.Dependencies.AuthRepositoryDroid))]
 namespace FlowersApp.Droid.Dependencies

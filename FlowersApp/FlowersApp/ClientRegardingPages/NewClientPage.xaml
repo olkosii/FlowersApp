@@ -10,6 +10,8 @@
                    Placeholder="Address" />
             <Entry x:Name="phoneNumberEntry"
                    Placeholder="PhoneNumber" 
+                   Focused="phoneNumberEntry_Focused"
+                   Unfocused="phoneNumberEntry_Unfocused"
                    Keyboard="Telephone"/>
             <Button x:Name="saveButton"
                     Text="Save"

@@ -11,6 +11,7 @@ namespace FlowersApp.Helpers
             public const string registerMessage = "There is no user record corresponding to this identifier";
             public const string unknownError = "There was an unknown error";
             public const string error = "error";
+            public const string incorrectNumber = "incorrect phone number structure";
         }
     }
 }

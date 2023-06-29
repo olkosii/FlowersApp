@@ -25,6 +25,251 @@ namespace FlowersApp.Droid
 		
 		public static void UpdateIdValues()
 		{
+			global::Plugin.CloudFirestore.Resource.Attribute.alpha = global::FlowersApp.Droid.Resource.Attribute.alpha;
+			global::Plugin.CloudFirestore.Resource.Attribute.buttonSize = global::FlowersApp.Droid.Resource.Attribute.buttonSize;
+			global::Plugin.CloudFirestore.Resource.Attribute.circleCrop = global::FlowersApp.Droid.Resource.Attribute.circleCrop;
+			global::Plugin.CloudFirestore.Resource.Attribute.colorScheme = global::FlowersApp.Droid.Resource.Attribute.colorScheme;
+			global::Plugin.CloudFirestore.Resource.Attribute.font = global::FlowersApp.Droid.Resource.Attribute.font;
+			global::Plugin.CloudFirestore.Resource.Attribute.fontProviderAuthority = global::FlowersApp.Droid.Resource.Attribute.fontProviderAuthority;
+			global::Plugin.CloudFirestore.Resource.Attribute.fontProviderCerts = global::FlowersApp.Droid.Resource.Attribute.fontProviderCerts;
+			global::Plugin.CloudFirestore.Resource.Attribute.fontProviderFetchStrategy = global::FlowersApp.Droid.Resource.Attribute.fontProviderFetchStrategy;
+			global::Plugin.CloudFirestore.Resource.Attribute.fontProviderFetchTimeout = global::FlowersApp.Droid.Resource.Attribute.fontProviderFetchTimeout;
+			global::Plugin.CloudFirestore.Resource.Attribute.fontProviderPackage = global::FlowersApp.Droid.Resource.Attribute.fontProviderPackage;
+			global::Plugin.CloudFirestore.Resource.Attribute.fontProviderQuery = global::FlowersApp.Droid.Resource.Attribute.fontProviderQuery;
+			global::Plugin.CloudFirestore.Resource.Attribute.fontStyle = global::FlowersApp.Droid.Resource.Attribute.fontStyle;
+			global::Plugin.CloudFirestore.Resource.Attribute.fontVariationSettings = global::FlowersApp.Droid.Resource.Attribute.fontVariationSettings;
+			global::Plugin.CloudFirestore.Resource.Attribute.fontWeight = global::FlowersApp.Droid.Resource.Attribute.fontWeight;
+			global::Plugin.CloudFirestore.Resource.Attribute.imageAspectRatio = global::FlowersApp.Droid.Resource.Attribute.imageAspectRatio;
+			global::Plugin.CloudFirestore.Resource.Attribute.imageAspectRatioAdjust = global::FlowersApp.Droid.Resource.Attribute.imageAspectRatioAdjust;
+			global::Plugin.CloudFirestore.Resource.Attribute.scopeUris = global::FlowersApp.Droid.Resource.Attribute.scopeUris;
+			global::Plugin.CloudFirestore.Resource.Attribute.ttcIndex = global::FlowersApp.Droid.Resource.Attribute.ttcIndex;
+			global::Plugin.CloudFirestore.Resource.Color.common_google_signin_btn_text_dark = global::FlowersApp.Droid.Resource.Color.common_google_signin_btn_text_dark;
+			global::Plugin.CloudFirestore.Resource.Color.common_google_signin_btn_text_dark_default = global::FlowersApp.Droid.Resource.Color.common_google_signin_btn_text_dark_default;
+			global::Plugin.CloudFirestore.Resource.Color.common_google_signin_btn_text_dark_disabled = global::FlowersApp.Droid.Resource.Color.common_google_signin_btn_text_dark_disabled;
+			global::Plugin.CloudFirestore.Resource.Color.common_google_signin_btn_text_dark_focused = global::FlowersApp.Droid.Resource.Color.common_google_signin_btn_text_dark_focused;
+			global::Plugin.CloudFirestore.Resource.Color.common_google_signin_btn_text_dark_pressed = global::FlowersApp.Droid.Resource.Color.common_google_signin_btn_text_dark_pressed;
+			global::Plugin.CloudFirestore.Resource.Color.common_google_signin_btn_text_light = global::FlowersApp.Droid.Resource.Color.common_google_signin_btn_text_light;
+			global::Plugin.CloudFirestore.Resource.Color.common_google_signin_btn_text_light_default = global::FlowersApp.Droid.Resource.Color.common_google_signin_btn_text_light_default;
+			global::Plugin.CloudFirestore.Resource.Color.common_google_signin_btn_text_light_disabled = global::FlowersApp.Droid.Resource.Color.common_google_signin_btn_text_light_disabled;
+			global::Plugin.CloudFirestore.Resource.Color.common_google_signin_btn_text_light_focused = global::FlowersApp.Droid.Resource.Color.common_google_signin_btn_text_light_focused;
+			global::Plugin.CloudFirestore.Resource.Color.common_google_signin_btn_text_light_pressed = global::FlowersApp.Droid.Resource.Color.common_google_signin_btn_text_light_pressed;
+			global::Plugin.CloudFirestore.Resource.Color.common_google_signin_btn_tint = global::FlowersApp.Droid.Resource.Color.common_google_signin_btn_tint;
+			global::Plugin.CloudFirestore.Resource.Color.notification_action_color_filter = global::FlowersApp.Droid.Resource.Color.notification_action_color_filter;
+			global::Plugin.CloudFirestore.Resource.Color.notification_icon_bg_color = global::FlowersApp.Droid.Resource.Color.notification_icon_bg_color;
+			global::Plugin.CloudFirestore.Resource.Color.ripple_material_light = global::FlowersApp.Droid.Resource.Color.ripple_material_light;
+			global::Plugin.CloudFirestore.Resource.Color.secondary_text_default_material_light = global::FlowersApp.Droid.Resource.Color.secondary_text_default_material_light;
+			global::Plugin.CloudFirestore.Resource.Dimension.compat_button_inset_horizontal_material = global::FlowersApp.Droid.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::Plugin.CloudFirestore.Resource.Dimension.compat_button_inset_vertical_material = global::FlowersApp.Droid.Resource.Dimension.compat_button_inset_vertical_material;
+			global::Plugin.CloudFirestore.Resource.Dimension.compat_button_padding_horizontal_material = global::FlowersApp.Droid.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::Plugin.CloudFirestore.Resource.Dimension.compat_button_padding_vertical_material = global::FlowersApp.Droid.Resource.Dimension.compat_button_padding_vertical_material;
+			global::Plugin.CloudFirestore.Resource.Dimension.compat_control_corner_material = global::FlowersApp.Droid.Resource.Dimension.compat_control_corner_material;
+			global::Plugin.CloudFirestore.Resource.Dimension.compat_notification_large_icon_max_height = global::FlowersApp.Droid.Resource.Dimension.compat_notification_large_icon_max_height;
+			global::Plugin.CloudFirestore.Resource.Dimension.compat_notification_large_icon_max_width = global::FlowersApp.Droid.Resource.Dimension.compat_notification_large_icon_max_width;
+			global::Plugin.CloudFirestore.Resource.Dimension.notification_action_icon_size = global::FlowersApp.Droid.Resource.Dimension.notification_action_icon_size;
+			global::Plugin.CloudFirestore.Resource.Dimension.notification_action_text_size = global::FlowersApp.Droid.Resource.Dimension.notification_action_text_size;
+			global::Plugin.CloudFirestore.Resource.Dimension.notification_big_circle_margin = global::FlowersApp.Droid.Resource.Dimension.notification_big_circle_margin;
+			global::Plugin.CloudFirestore.Resource.Dimension.notification_content_margin_start = global::FlowersApp.Droid.Resource.Dimension.notification_content_margin_start;
+			global::Plugin.CloudFirestore.Resource.Dimension.notification_large_icon_height = global::FlowersApp.Droid.Resource.Dimension.notification_large_icon_height;
+			global::Plugin.CloudFirestore.Resource.Dimension.notification_large_icon_width = global::FlowersApp.Droid.Resource.Dimension.notification_large_icon_width;
+			global::Plugin.CloudFirestore.Resource.Dimension.notification_main_column_padding_top = global::FlowersApp.Droid.Resource.Dimension.notification_main_column_padding_top;
+			global::Plugin.CloudFirestore.Resource.Dimension.notification_media_narrow_margin = global::FlowersApp.Droid.Resource.Dimension.notification_media_narrow_margin;
+			global::Plugin.CloudFirestore.Resource.Dimension.notification_right_icon_size = global::FlowersApp.Droid.Resource.Dimension.notification_right_icon_size;
+			global::Plugin.CloudFirestore.Resource.Dimension.notification_right_side_padding_top = global::FlowersApp.Droid.Resource.Dimension.notification_right_side_padding_top;
+			global::Plugin.CloudFirestore.Resource.Dimension.notification_small_icon_background_padding = global::FlowersApp.Droid.Resource.Dimension.notification_small_icon_background_padding;
+			global::Plugin.CloudFirestore.Resource.Dimension.notification_small_icon_size_as_large = global::FlowersApp.Droid.Resource.Dimension.notification_small_icon_size_as_large;
+			global::Plugin.CloudFirestore.Resource.Dimension.notification_subtext_size = global::FlowersApp.Droid.Resource.Dimension.notification_subtext_size;
+			global::Plugin.CloudFirestore.Resource.Dimension.notification_top_pad = global::FlowersApp.Droid.Resource.Dimension.notification_top_pad;
+			global::Plugin.CloudFirestore.Resource.Dimension.notification_top_pad_large_text = global::FlowersApp.Droid.Resource.Dimension.notification_top_pad_large_text;
+			global::Plugin.CloudFirestore.Resource.Drawable.common_full_open_on_phone = global::FlowersApp.Droid.Resource.Drawable.common_full_open_on_phone;
+			global::Plugin.CloudFirestore.Resource.Drawable.common_google_signin_btn_icon_dark = global::FlowersApp.Droid.Resource.Drawable.common_google_signin_btn_icon_dark;
+			global::Plugin.CloudFirestore.Resource.Drawable.common_google_signin_btn_icon_dark_focused = global::FlowersApp.Droid.Resource.Drawable.common_google_signin_btn_icon_dark_focused;
+			global::Plugin.CloudFirestore.Resource.Drawable.common_google_signin_btn_icon_dark_normal = global::FlowersApp.Droid.Resource.Drawable.common_google_signin_btn_icon_dark_normal;
+			global::Plugin.CloudFirestore.Resource.Drawable.common_google_signin_btn_icon_dark_normal_background = global::FlowersApp.Droid.Resource.Drawable.common_google_signin_btn_icon_dark_normal_background;
+			global::Plugin.CloudFirestore.Resource.Drawable.common_google_signin_btn_icon_disabled = global::FlowersApp.Droid.Resource.Drawable.common_google_signin_btn_icon_disabled;
+			global::Plugin.CloudFirestore.Resource.Drawable.common_google_signin_btn_icon_light = global::FlowersApp.Droid.Resource.Drawable.common_google_signin_btn_icon_light;
+			global::Plugin.CloudFirestore.Resource.Drawable.common_google_signin_btn_icon_light_focused = global::FlowersApp.Droid.Resource.Drawable.common_google_signin_btn_icon_light_focused;
+			global::Plugin.CloudFirestore.Resource.Drawable.common_google_signin_btn_icon_light_normal = global::FlowersApp.Droid.Resource.Drawable.common_google_signin_btn_icon_light_normal;
+			global::Plugin.CloudFirestore.Resource.Drawable.common_google_signin_btn_icon_light_normal_background = global::FlowersApp.Droid.Resource.Drawable.common_google_signin_btn_icon_light_normal_background;
+			global::Plugin.CloudFirestore.Resource.Drawable.common_google_signin_btn_text_dark = global::FlowersApp.Droid.Resource.Drawable.common_google_signin_btn_text_dark;
+			global::Plugin.CloudFirestore.Resource.Drawable.common_google_signin_btn_text_dark_focused = global::FlowersApp.Droid.Resource.Drawable.common_google_signin_btn_text_dark_focused;
+			global::Plugin.CloudFirestore.Resource.Drawable.common_google_signin_btn_text_dark_normal = global::FlowersApp.Droid.Resource.Drawable.common_google_signin_btn_text_dark_normal;
+			global::Plugin.CloudFirestore.Resource.Drawable.common_google_signin_btn_text_dark_normal_background = global::FlowersApp.Droid.Resource.Drawable.common_google_signin_btn_text_dark_normal_background;
+			global::Plugin.CloudFirestore.Resource.Drawable.common_google_signin_btn_text_disabled = global::FlowersApp.Droid.Resource.Drawable.common_google_signin_btn_text_disabled;
+			global::Plugin.CloudFirestore.Resource.Drawable.common_google_signin_btn_text_light = global::FlowersApp.Droid.Resource.Drawable.common_google_signin_btn_text_light;
+			global::Plugin.CloudFirestore.Resource.Drawable.common_google_signin_btn_text_light_focused = global::FlowersApp.Droid.Resource.Drawable.common_google_signin_btn_text_light_focused;
+			global::Plugin.CloudFirestore.Resource.Drawable.common_google_signin_btn_text_light_normal = global::FlowersApp.Droid.Resource.Drawable.common_google_signin_btn_text_light_normal;
+			global::Plugin.CloudFirestore.Resource.Drawable.common_google_signin_btn_text_light_normal_background = global::FlowersApp.Droid.Resource.Drawable.common_google_signin_btn_text_light_normal_background;
+			global::Plugin.CloudFirestore.Resource.Drawable.googleg_disabled_color_18 = global::FlowersApp.Droid.Resource.Drawable.googleg_disabled_color_18;
+			global::Plugin.CloudFirestore.Resource.Drawable.googleg_standard_color_18 = global::FlowersApp.Droid.Resource.Drawable.googleg_standard_color_18;
+			global::Plugin.CloudFirestore.Resource.Drawable.notification_action_background = global::FlowersApp.Droid.Resource.Drawable.notification_action_background;
+			global::Plugin.CloudFirestore.Resource.Drawable.notification_bg = global::FlowersApp.Droid.Resource.Drawable.notification_bg;
+			global::Plugin.CloudFirestore.Resource.Drawable.notification_bg_low = global::FlowersApp.Droid.Resource.Drawable.notification_bg_low;
+			global::Plugin.CloudFirestore.Resource.Drawable.notification_bg_low_normal = global::FlowersApp.Droid.Resource.Drawable.notification_bg_low_normal;
+			global::Plugin.CloudFirestore.Resource.Drawable.notification_bg_low_pressed = global::FlowersApp.Droid.Resource.Drawable.notification_bg_low_pressed;
+			global::Plugin.CloudFirestore.Resource.Drawable.notification_bg_normal = global::FlowersApp.Droid.Resource.Drawable.notification_bg_normal;
+			global::Plugin.CloudFirestore.Resource.Drawable.notification_bg_normal_pressed = global::FlowersApp.Droid.Resource.Drawable.notification_bg_normal_pressed;
+			global::Plugin.CloudFirestore.Resource.Drawable.notification_icon_background = global::FlowersApp.Droid.Resource.Drawable.notification_icon_background;
+			global::Plugin.CloudFirestore.Resource.Drawable.notification_template_icon_bg = global::FlowersApp.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::Plugin.CloudFirestore.Resource.Drawable.notification_template_icon_low_bg = global::FlowersApp.Droid.Resource.Drawable.notification_template_icon_low_bg;
+			global::Plugin.CloudFirestore.Resource.Drawable.notification_tile_bg = global::FlowersApp.Droid.Resource.Drawable.notification_tile_bg;
+			global::Plugin.CloudFirestore.Resource.Drawable.notify_panel_notification_icon_bg = global::FlowersApp.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::Plugin.CloudFirestore.Resource.Id.accessibility_action_clickable_span = global::FlowersApp.Droid.Resource.Id.accessibility_action_clickable_span;
+			global::Plugin.CloudFirestore.Resource.Id.accessibility_custom_action_0 = global::FlowersApp.Droid.Resource.Id.accessibility_custom_action_0;
+			global::Plugin.CloudFirestore.Resource.Id.accessibility_custom_action_1 = global::FlowersApp.Droid.Resource.Id.accessibility_custom_action_1;
+			global::Plugin.CloudFirestore.Resource.Id.accessibility_custom_action_10 = global::FlowersApp.Droid.Resource.Id.accessibility_custom_action_10;
+			global::Plugin.CloudFirestore.Resource.Id.accessibility_custom_action_11 = global::FlowersApp.Droid.Resource.Id.accessibility_custom_action_11;
+			global::Plugin.CloudFirestore.Resource.Id.accessibility_custom_action_12 = global::FlowersApp.Droid.Resource.Id.accessibility_custom_action_12;
+			global::Plugin.CloudFirestore.Resource.Id.accessibility_custom_action_13 = global::FlowersApp.Droid.Resource.Id.accessibility_custom_action_13;
+			global::Plugin.CloudFirestore.Resource.Id.accessibility_custom_action_14 = global::FlowersApp.Droid.Resource.Id.accessibility_custom_action_14;
+			global::Plugin.CloudFirestore.Resource.Id.accessibility_custom_action_15 = global::FlowersApp.Droid.Resource.Id.accessibility_custom_action_15;
+			global::Plugin.CloudFirestore.Resource.Id.accessibility_custom_action_16 = global::FlowersApp.Droid.Resource.Id.accessibility_custom_action_16;
+			global::Plugin.CloudFirestore.Resource.Id.accessibility_custom_action_17 = global::FlowersApp.Droid.Resource.Id.accessibility_custom_action_17;
+			global::Plugin.CloudFirestore.Resource.Id.accessibility_custom_action_18 = global::FlowersApp.Droid.Resource.Id.accessibility_custom_action_18;
+			global::Plugin.CloudFirestore.Resource.Id.accessibility_custom_action_19 = global::FlowersApp.Droid.Resource.Id.accessibility_custom_action_19;
+			global::Plugin.CloudFirestore.Resource.Id.accessibility_custom_action_2 = global::FlowersApp.Droid.Resource.Id.accessibility_custom_action_2;
+			global::Plugin.CloudFirestore.Resource.Id.accessibility_custom_action_20 = global::FlowersApp.Droid.Resource.Id.accessibility_custom_action_20;
+			global::Plugin.CloudFirestore.Resource.Id.accessibility_custom_action_21 = global::FlowersApp.Droid.Resource.Id.accessibility_custom_action_21;
+			global::Plugin.CloudFirestore.Resource.Id.accessibility_custom_action_22 = global::FlowersApp.Droid.Resource.Id.accessibility_custom_action_22;
+			global::Plugin.CloudFirestore.Resource.Id.accessibility_custom_action_23 = global::FlowersApp.Droid.Resource.Id.accessibility_custom_action_23;
+			global::Plugin.CloudFirestore.Resource.Id.accessibility_custom_action_24 = global::FlowersApp.Droid.Resource.Id.accessibility_custom_action_24;
+			global::Plugin.CloudFirestore.Resource.Id.accessibility_custom_action_25 = global::FlowersApp.Droid.Resource.Id.accessibility_custom_action_25;
+			global::Plugin.CloudFirestore.Resource.Id.accessibility_custom_action_26 = global::FlowersApp.Droid.Resource.Id.accessibility_custom_action_26;
+			global::Plugin.CloudFirestore.Resource.Id.accessibility_custom_action_27 = global::FlowersApp.Droid.Resource.Id.accessibility_custom_action_27;
+			global::Plugin.CloudFirestore.Resource.Id.accessibility_custom_action_28 = global::FlowersApp.Droid.Resource.Id.accessibility_custom_action_28;
+			global::Plugin.CloudFirestore.Resource.Id.accessibility_custom_action_29 = global::FlowersApp.Droid.Resource.Id.accessibility_custom_action_29;
+			global::Plugin.CloudFirestore.Resource.Id.accessibility_custom_action_3 = global::FlowersApp.Droid.Resource.Id.accessibility_custom_action_3;
+			global::Plugin.CloudFirestore.Resource.Id.accessibility_custom_action_30 = global::FlowersApp.Droid.Resource.Id.accessibility_custom_action_30;
+			global::Plugin.CloudFirestore.Resource.Id.accessibility_custom_action_31 = global::FlowersApp.Droid.Resource.Id.accessibility_custom_action_31;
+			global::Plugin.CloudFirestore.Resource.Id.accessibility_custom_action_4 = global::FlowersApp.Droid.Resource.Id.accessibility_custom_action_4;
+			global::Plugin.CloudFirestore.Resource.Id.accessibility_custom_action_5 = global::FlowersApp.Droid.Resource.Id.accessibility_custom_action_5;
+			global::Plugin.CloudFirestore.Resource.Id.accessibility_custom_action_6 = global::FlowersApp.Droid.Resource.Id.accessibility_custom_action_6;
+			global::Plugin.CloudFirestore.Resource.Id.accessibility_custom_action_7 = global::FlowersApp.Droid.Resource.Id.accessibility_custom_action_7;
+			global::Plugin.CloudFirestore.Resource.Id.accessibility_custom_action_8 = global::FlowersApp.Droid.Resource.Id.accessibility_custom_action_8;
+			global::Plugin.CloudFirestore.Resource.Id.accessibility_custom_action_9 = global::FlowersApp.Droid.Resource.Id.accessibility_custom_action_9;
+			global::Plugin.CloudFirestore.Resource.Id.actions = global::FlowersApp.Droid.Resource.Id.actions;
+			global::Plugin.CloudFirestore.Resource.Id.action_container = global::FlowersApp.Droid.Resource.Id.action_container;
+			global::Plugin.CloudFirestore.Resource.Id.action_divider = global::FlowersApp.Droid.Resource.Id.action_divider;
+			global::Plugin.CloudFirestore.Resource.Id.action_image = global::FlowersApp.Droid.Resource.Id.action_image;
+			global::Plugin.CloudFirestore.Resource.Id.action_text = global::FlowersApp.Droid.Resource.Id.action_text;
+			global::Plugin.CloudFirestore.Resource.Id.adjust_height = global::FlowersApp.Droid.Resource.Id.adjust_height;
+			global::Plugin.CloudFirestore.Resource.Id.adjust_width = global::FlowersApp.Droid.Resource.Id.adjust_width;
+			global::Plugin.CloudFirestore.Resource.Id.async = global::FlowersApp.Droid.Resource.Id.async;
+			global::Plugin.CloudFirestore.Resource.Id.auto = global::FlowersApp.Droid.Resource.Id.auto;
+			global::Plugin.CloudFirestore.Resource.Id.blocking = global::FlowersApp.Droid.Resource.Id.blocking;
+			global::Plugin.CloudFirestore.Resource.Id.chronometer = global::FlowersApp.Droid.Resource.Id.chronometer;
+			global::Plugin.CloudFirestore.Resource.Id.dark = global::FlowersApp.Droid.Resource.Id.dark;
+			global::Plugin.CloudFirestore.Resource.Id.dialog_button = global::FlowersApp.Droid.Resource.Id.dialog_button;
+			global::Plugin.CloudFirestore.Resource.Id.forever = global::FlowersApp.Droid.Resource.Id.forever;
+			global::Plugin.CloudFirestore.Resource.Id.icon = global::FlowersApp.Droid.Resource.Id.icon;
+			global::Plugin.CloudFirestore.Resource.Id.icon_group = global::FlowersApp.Droid.Resource.Id.icon_group;
+			global::Plugin.CloudFirestore.Resource.Id.icon_only = global::FlowersApp.Droid.Resource.Id.icon_only;
+			global::Plugin.CloudFirestore.Resource.Id.info = global::FlowersApp.Droid.Resource.Id.info;
+			global::Plugin.CloudFirestore.Resource.Id.italic = global::FlowersApp.Droid.Resource.Id.italic;
+			global::Plugin.CloudFirestore.Resource.Id.light = global::FlowersApp.Droid.Resource.Id.light;
+			global::Plugin.CloudFirestore.Resource.Id.line1 = global::FlowersApp.Droid.Resource.Id.line1;
+			global::Plugin.CloudFirestore.Resource.Id.line3 = global::FlowersApp.Droid.Resource.Id.line3;
+			global::Plugin.CloudFirestore.Resource.Id.none = global::FlowersApp.Droid.Resource.Id.none;
+			global::Plugin.CloudFirestore.Resource.Id.normal = global::FlowersApp.Droid.Resource.Id.normal;
+			global::Plugin.CloudFirestore.Resource.Id.notification_background = global::FlowersApp.Droid.Resource.Id.notification_background;
+			global::Plugin.CloudFirestore.Resource.Id.notification_main_column = global::FlowersApp.Droid.Resource.Id.notification_main_column;
+			global::Plugin.CloudFirestore.Resource.Id.notification_main_column_container = global::FlowersApp.Droid.Resource.Id.notification_main_column_container;
+			global::Plugin.CloudFirestore.Resource.Id.right_icon = global::FlowersApp.Droid.Resource.Id.right_icon;
+			global::Plugin.CloudFirestore.Resource.Id.right_side = global::FlowersApp.Droid.Resource.Id.right_side;
+			global::Plugin.CloudFirestore.Resource.Id.standard = global::FlowersApp.Droid.Resource.Id.standard;
+			global::Plugin.CloudFirestore.Resource.Id.tag_accessibility_actions = global::FlowersApp.Droid.Resource.Id.tag_accessibility_actions;
+			global::Plugin.CloudFirestore.Resource.Id.tag_accessibility_clickable_spans = global::FlowersApp.Droid.Resource.Id.tag_accessibility_clickable_spans;
+			global::Plugin.CloudFirestore.Resource.Id.tag_accessibility_heading = global::FlowersApp.Droid.Resource.Id.tag_accessibility_heading;
+			global::Plugin.CloudFirestore.Resource.Id.tag_accessibility_pane_title = global::FlowersApp.Droid.Resource.Id.tag_accessibility_pane_title;
+			global::Plugin.CloudFirestore.Resource.Id.tag_screen_reader_focusable = global::FlowersApp.Droid.Resource.Id.tag_screen_reader_focusable;
+			global::Plugin.CloudFirestore.Resource.Id.tag_transition_group = global::FlowersApp.Droid.Resource.Id.tag_transition_group;
+			global::Plugin.CloudFirestore.Resource.Id.tag_unhandled_key_event_manager = global::FlowersApp.Droid.Resource.Id.tag_unhandled_key_event_manager;
+			global::Plugin.CloudFirestore.Resource.Id.tag_unhandled_key_listeners = global::FlowersApp.Droid.Resource.Id.tag_unhandled_key_listeners;
+			global::Plugin.CloudFirestore.Resource.Id.text = global::FlowersApp.Droid.Resource.Id.text;
+			global::Plugin.CloudFirestore.Resource.Id.text2 = global::FlowersApp.Droid.Resource.Id.text2;
+			global::Plugin.CloudFirestore.Resource.Id.time = global::FlowersApp.Droid.Resource.Id.time;
+			global::Plugin.CloudFirestore.Resource.Id.title = global::FlowersApp.Droid.Resource.Id.title;
+			global::Plugin.CloudFirestore.Resource.Id.wide = global::FlowersApp.Droid.Resource.Id.wide;
+			global::Plugin.CloudFirestore.Resource.Integer.google_play_services_version = global::FlowersApp.Droid.Resource.Integer.google_play_services_version;
+			global::Plugin.CloudFirestore.Resource.Integer.status_bar_notification_info_maxnum = global::FlowersApp.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::Plugin.CloudFirestore.Resource.Layout.custom_dialog = global::FlowersApp.Droid.Resource.Layout.custom_dialog;
+			global::Plugin.CloudFirestore.Resource.Layout.notification_action = global::FlowersApp.Droid.Resource.Layout.notification_action;
+			global::Plugin.CloudFirestore.Resource.Layout.notification_action_tombstone = global::FlowersApp.Droid.Resource.Layout.notification_action_tombstone;
+			global::Plugin.CloudFirestore.Resource.Layout.notification_template_custom_big = global::FlowersApp.Droid.Resource.Layout.notification_template_custom_big;
+			global::Plugin.CloudFirestore.Resource.Layout.notification_template_icon_group = global::FlowersApp.Droid.Resource.Layout.notification_template_icon_group;
+			global::Plugin.CloudFirestore.Resource.Layout.notification_template_part_chronometer = global::FlowersApp.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::Plugin.CloudFirestore.Resource.Layout.notification_template_part_time = global::FlowersApp.Droid.Resource.Layout.notification_template_part_time;
+			global::Plugin.CloudFirestore.Resource.String.common_google_play_services_enable_button = global::FlowersApp.Droid.Resource.String.common_google_play_services_enable_button;
+			global::Plugin.CloudFirestore.Resource.String.common_google_play_services_enable_text = global::FlowersApp.Droid.Resource.String.common_google_play_services_enable_text;
+			global::Plugin.CloudFirestore.Resource.String.common_google_play_services_enable_title = global::FlowersApp.Droid.Resource.String.common_google_play_services_enable_title;
+			global::Plugin.CloudFirestore.Resource.String.common_google_play_services_install_button = global::FlowersApp.Droid.Resource.String.common_google_play_services_install_button;
+			global::Plugin.CloudFirestore.Resource.String.common_google_play_services_install_text = global::FlowersApp.Droid.Resource.String.common_google_play_services_install_text;
+			global::Plugin.CloudFirestore.Resource.String.common_google_play_services_install_title = global::FlowersApp.Droid.Resource.String.common_google_play_services_install_title;
+			global::Plugin.CloudFirestore.Resource.String.common_google_play_services_notification_channel_name = global::FlowersApp.Droid.Resource.String.common_google_play_services_notification_channel_name;
+			global::Plugin.CloudFirestore.Resource.String.common_google_play_services_notification_ticker = global::FlowersApp.Droid.Resource.String.common_google_play_services_notification_ticker;
+			global::Plugin.CloudFirestore.Resource.String.common_google_play_services_unknown_issue = global::FlowersApp.Droid.Resource.String.common_google_play_services_unknown_issue;
+			global::Plugin.CloudFirestore.Resource.String.common_google_play_services_unsupported_text = global::FlowersApp.Droid.Resource.String.common_google_play_services_unsupported_text;
+			global::Plugin.CloudFirestore.Resource.String.common_google_play_services_update_button = global::FlowersApp.Droid.Resource.String.common_google_play_services_update_button;
+			global::Plugin.CloudFirestore.Resource.String.common_google_play_services_update_text = global::FlowersApp.Droid.Resource.String.common_google_play_services_update_text;
+			global::Plugin.CloudFirestore.Resource.String.common_google_play_services_update_title = global::FlowersApp.Droid.Resource.String.common_google_play_services_update_title;
+			global::Plugin.CloudFirestore.Resource.String.common_google_play_services_updating_text = global::FlowersApp.Droid.Resource.String.common_google_play_services_updating_text;
+			global::Plugin.CloudFirestore.Resource.String.common_google_play_services_wear_update_text = global::FlowersApp.Droid.Resource.String.common_google_play_services_wear_update_text;
+			global::Plugin.CloudFirestore.Resource.String.common_open_on_phone = global::FlowersApp.Droid.Resource.String.common_open_on_phone;
+			global::Plugin.CloudFirestore.Resource.String.common_signin_button_text = global::FlowersApp.Droid.Resource.String.common_signin_button_text;
+			global::Plugin.CloudFirestore.Resource.String.common_signin_button_text_long = global::FlowersApp.Droid.Resource.String.common_signin_button_text_long;
+			global::Plugin.CloudFirestore.Resource.String.status_bar_notification_info_overflow = global::FlowersApp.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::Plugin.CloudFirestore.Resource.Style.TextAppearance_Compat_Notification = global::FlowersApp.Droid.Resource.Style.TextAppearance_Compat_Notification;
+			global::Plugin.CloudFirestore.Resource.Style.TextAppearance_Compat_Notification_Info = global::FlowersApp.Droid.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::Plugin.CloudFirestore.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::FlowersApp.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::Plugin.CloudFirestore.Resource.Style.TextAppearance_Compat_Notification_Time = global::FlowersApp.Droid.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::Plugin.CloudFirestore.Resource.Style.TextAppearance_Compat_Notification_Title = global::FlowersApp.Droid.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::Plugin.CloudFirestore.Resource.Style.Widget_Compat_NotificationActionContainer = global::FlowersApp.Droid.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::Plugin.CloudFirestore.Resource.Style.Widget_Compat_NotificationActionText = global::FlowersApp.Droid.Resource.Style.Widget_Compat_NotificationActionText;
+			global::Plugin.CloudFirestore.Resource.Styleable.ColorStateListItem = global::FlowersApp.Droid.Resource.Styleable.ColorStateListItem;
+			global::Plugin.CloudFirestore.Resource.Styleable.ColorStateListItem_alpha = global::FlowersApp.Droid.Resource.Styleable.ColorStateListItem_alpha;
+			global::Plugin.CloudFirestore.Resource.Styleable.ColorStateListItem_android_alpha = global::FlowersApp.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::Plugin.CloudFirestore.Resource.Styleable.ColorStateListItem_android_color = global::FlowersApp.Droid.Resource.Styleable.ColorStateListItem_android_color;
+			global::Plugin.CloudFirestore.Resource.Styleable.FontFamily = global::FlowersApp.Droid.Resource.Styleable.FontFamily;
+			global::Plugin.CloudFirestore.Resource.Styleable.FontFamilyFont = global::FlowersApp.Droid.Resource.Styleable.FontFamilyFont;
+			global::Plugin.CloudFirestore.Resource.Styleable.FontFamilyFont_android_font = global::FlowersApp.Droid.Resource.Styleable.FontFamilyFont_android_font;
+			global::Plugin.CloudFirestore.Resource.Styleable.FontFamilyFont_android_fontStyle = global::FlowersApp.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::Plugin.CloudFirestore.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::FlowersApp.Droid.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
+			global::Plugin.CloudFirestore.Resource.Styleable.FontFamilyFont_android_fontWeight = global::FlowersApp.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::Plugin.CloudFirestore.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::FlowersApp.Droid.Resource.Styleable.FontFamilyFont_android_ttcIndex;
+			global::Plugin.CloudFirestore.Resource.Styleable.FontFamilyFont_font = global::FlowersApp.Droid.Resource.Styleable.FontFamilyFont_font;
+			global::Plugin.CloudFirestore.Resource.Styleable.FontFamilyFont_fontStyle = global::FlowersApp.Droid.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::Plugin.CloudFirestore.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::FlowersApp.Droid.Resource.Styleable.FontFamilyFont_fontVariationSettings;
+			global::Plugin.CloudFirestore.Resource.Styleable.FontFamilyFont_fontWeight = global::FlowersApp.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::Plugin.CloudFirestore.Resource.Styleable.FontFamilyFont_ttcIndex = global::FlowersApp.Droid.Resource.Styleable.FontFamilyFont_ttcIndex;
+			global::Plugin.CloudFirestore.Resource.Styleable.FontFamily_fontProviderAuthority = global::FlowersApp.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::Plugin.CloudFirestore.Resource.Styleable.FontFamily_fontProviderCerts = global::FlowersApp.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::Plugin.CloudFirestore.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::FlowersApp.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::Plugin.CloudFirestore.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::FlowersApp.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::Plugin.CloudFirestore.Resource.Styleable.FontFamily_fontProviderPackage = global::FlowersApp.Droid.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::Plugin.CloudFirestore.Resource.Styleable.FontFamily_fontProviderQuery = global::FlowersApp.Droid.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::Plugin.CloudFirestore.Resource.Styleable.GradientColor = global::FlowersApp.Droid.Resource.Styleable.GradientColor;
+			global::Plugin.CloudFirestore.Resource.Styleable.GradientColorItem = global::FlowersApp.Droid.Resource.Styleable.GradientColorItem;
+			global::Plugin.CloudFirestore.Resource.Styleable.GradientColorItem_android_color = global::FlowersApp.Droid.Resource.Styleable.GradientColorItem_android_color;
+			global::Plugin.CloudFirestore.Resource.Styleable.GradientColorItem_android_offset = global::FlowersApp.Droid.Resource.Styleable.GradientColorItem_android_offset;
+			global::Plugin.CloudFirestore.Resource.Styleable.GradientColor_android_centerColor = global::FlowersApp.Droid.Resource.Styleable.GradientColor_android_centerColor;
+			global::Plugin.CloudFirestore.Resource.Styleable.GradientColor_android_centerX = global::FlowersApp.Droid.Resource.Styleable.GradientColor_android_centerX;
+			global::Plugin.CloudFirestore.Resource.Styleable.GradientColor_android_centerY = global::FlowersApp.Droid.Resource.Styleable.GradientColor_android_centerY;
+			global::Plugin.CloudFirestore.Resource.Styleable.GradientColor_android_endColor = global::FlowersApp.Droid.Resource.Styleable.GradientColor_android_endColor;
+			global::Plugin.CloudFirestore.Resource.Styleable.GradientColor_android_endX = global::FlowersApp.Droid.Resource.Styleable.GradientColor_android_endX;
+			global::Plugin.CloudFirestore.Resource.Styleable.GradientColor_android_endY = global::FlowersApp.Droid.Resource.Styleable.GradientColor_android_endY;
+			global::Plugin.CloudFirestore.Resource.Styleable.GradientColor_android_gradientRadius = global::FlowersApp.Droid.Resource.Styleable.GradientColor_android_gradientRadius;
+			global::Plugin.CloudFirestore.Resource.Styleable.GradientColor_android_startColor = global::FlowersApp.Droid.Resource.Styleable.GradientColor_android_startColor;
+			global::Plugin.CloudFirestore.Resource.Styleable.GradientColor_android_startX = global::FlowersApp.Droid.Resource.Styleable.GradientColor_android_startX;
+			global::Plugin.CloudFirestore.Resource.Styleable.GradientColor_android_startY = global::FlowersApp.Droid.Resource.Styleable.GradientColor_android_startY;
+			global::Plugin.CloudFirestore.Resource.Styleable.GradientColor_android_tileMode = global::FlowersApp.Droid.Resource.Styleable.GradientColor_android_tileMode;
+			global::Plugin.CloudFirestore.Resource.Styleable.GradientColor_android_type = global::FlowersApp.Droid.Resource.Styleable.GradientColor_android_type;
+			global::Plugin.CloudFirestore.Resource.Styleable.LoadingImageView = global::FlowersApp.Droid.Resource.Styleable.LoadingImageView;
+			global::Plugin.CloudFirestore.Resource.Styleable.LoadingImageView_circleCrop = global::FlowersApp.Droid.Resource.Styleable.LoadingImageView_circleCrop;
+			global::Plugin.CloudFirestore.Resource.Styleable.LoadingImageView_imageAspectRatio = global::FlowersApp.Droid.Resource.Styleable.LoadingImageView_imageAspectRatio;
+			global::Plugin.CloudFirestore.Resource.Styleable.LoadingImageView_imageAspectRatioAdjust = global::FlowersApp.Droid.Resource.Styleable.LoadingImageView_imageAspectRatioAdjust;
+			global::Plugin.CloudFirestore.Resource.Styleable.SignInButton = global::FlowersApp.Droid.Resource.Styleable.SignInButton;
+			global::Plugin.CloudFirestore.Resource.Styleable.SignInButton_buttonSize = global::FlowersApp.Droid.Resource.Styleable.SignInButton_buttonSize;
+			global::Plugin.CloudFirestore.Resource.Styleable.SignInButton_colorScheme = global::FlowersApp.Droid.Resource.Styleable.SignInButton_colorScheme;
+			global::Plugin.CloudFirestore.Resource.Styleable.SignInButton_scopeUris = global::FlowersApp.Droid.Resource.Styleable.SignInButton_scopeUris;
 			global::Xamarin.Essentials.Resource.Attribute.alpha = global::FlowersApp.Droid.Resource.Attribute.alpha;
 			global::Xamarin.Essentials.Resource.Attribute.font = global::FlowersApp.Droid.Resource.Attribute.font;
 			global::Xamarin.Essentials.Resource.Attribute.fontProviderAuthority = global::FlowersApp.Droid.Resource.Attribute.fontProviderAuthority;
@@ -16645,152 +16890,155 @@ namespace FlowersApp.Droid
 			// aapt resource value: 0x7F070078
 			public const int googleg_standard_color_18 = 2131165304;
 			
-			// aapt resource value: 0x7F070082
-			public const int icon_about = 2131165314;
-			
 			// aapt resource value: 0x7F070083
-			public const int icon_feed = 2131165315;
-			
-			// aapt resource value: 0x7F070079
-			public const int ic_action_flower = 2131165305;
-			
-			// aapt resource value: 0x7F07007A
-			public const int ic_action_users = 2131165306;
-			
-			// aapt resource value: 0x7F07007B
-			public const int ic_arrow_down_24dp = 2131165307;
-			
-			// aapt resource value: 0x7F07007C
-			public const int ic_clock_black_24dp = 2131165308;
-			
-			// aapt resource value: 0x7F07007D
-			public const int ic_keyboard_black_24dp = 2131165309;
-			
-			// aapt resource value: 0x7F07007E
-			public const int ic_mtrl_checked_circle = 2131165310;
-			
-			// aapt resource value: 0x7F07007F
-			public const int ic_mtrl_chip_checked_black = 2131165311;
-			
-			// aapt resource value: 0x7F070080
-			public const int ic_mtrl_chip_checked_circle = 2131165312;
-			
-			// aapt resource value: 0x7F070081
-			public const int ic_mtrl_chip_close_circle = 2131165313;
+			public const int icon_about = 2131165315;
 			
 			// aapt resource value: 0x7F070084
-			public const int material_cursor_drawable = 2131165316;
+			public const int icon_feed = 2131165316;
+			
+			// aapt resource value: 0x7F070079
+			public const int ic_action_assignment = 2131165305;
+			
+			// aapt resource value: 0x7F07007A
+			public const int ic_action_flower = 2131165306;
+			
+			// aapt resource value: 0x7F07007B
+			public const int ic_action_users = 2131165307;
+			
+			// aapt resource value: 0x7F07007C
+			public const int ic_arrow_down_24dp = 2131165308;
+			
+			// aapt resource value: 0x7F07007D
+			public const int ic_clock_black_24dp = 2131165309;
+			
+			// aapt resource value: 0x7F07007E
+			public const int ic_keyboard_black_24dp = 2131165310;
+			
+			// aapt resource value: 0x7F07007F
+			public const int ic_mtrl_checked_circle = 2131165311;
+			
+			// aapt resource value: 0x7F070080
+			public const int ic_mtrl_chip_checked_black = 2131165312;
+			
+			// aapt resource value: 0x7F070081
+			public const int ic_mtrl_chip_checked_circle = 2131165313;
+			
+			// aapt resource value: 0x7F070082
+			public const int ic_mtrl_chip_close_circle = 2131165314;
 			
 			// aapt resource value: 0x7F070085
-			public const int material_ic_calendar_black_24dp = 2131165317;
+			public const int material_cursor_drawable = 2131165317;
 			
 			// aapt resource value: 0x7F070086
-			public const int material_ic_clear_black_24dp = 2131165318;
+			public const int material_ic_calendar_black_24dp = 2131165318;
 			
 			// aapt resource value: 0x7F070087
-			public const int material_ic_edit_black_24dp = 2131165319;
+			public const int material_ic_clear_black_24dp = 2131165319;
 			
 			// aapt resource value: 0x7F070088
-			public const int material_ic_keyboard_arrow_left_black_24dp = 2131165320;
+			public const int material_ic_edit_black_24dp = 2131165320;
 			
 			// aapt resource value: 0x7F070089
-			public const int material_ic_keyboard_arrow_next_black_24dp = 2131165321;
+			public const int material_ic_keyboard_arrow_left_black_24dp = 2131165321;
 			
 			// aapt resource value: 0x7F07008A
-			public const int material_ic_keyboard_arrow_previous_black_24dp = 2131165322;
+			public const int material_ic_keyboard_arrow_next_black_24dp = 2131165322;
 			
 			// aapt resource value: 0x7F07008B
-			public const int material_ic_keyboard_arrow_right_black_24dp = 2131165323;
+			public const int material_ic_keyboard_arrow_previous_black_24dp = 2131165323;
 			
 			// aapt resource value: 0x7F07008C
-			public const int material_ic_menu_arrow_down_black_24dp = 2131165324;
+			public const int material_ic_keyboard_arrow_right_black_24dp = 2131165324;
 			
 			// aapt resource value: 0x7F07008D
-			public const int material_ic_menu_arrow_up_black_24dp = 2131165325;
+			public const int material_ic_menu_arrow_down_black_24dp = 2131165325;
 			
 			// aapt resource value: 0x7F07008E
-			public const int mtrl_dialog_background = 2131165326;
+			public const int material_ic_menu_arrow_up_black_24dp = 2131165326;
 			
 			// aapt resource value: 0x7F07008F
-			public const int mtrl_dropdown_arrow = 2131165327;
+			public const int mtrl_dialog_background = 2131165327;
 			
 			// aapt resource value: 0x7F070090
-			public const int mtrl_ic_arrow_drop_down = 2131165328;
+			public const int mtrl_dropdown_arrow = 2131165328;
 			
 			// aapt resource value: 0x7F070091
-			public const int mtrl_ic_arrow_drop_up = 2131165329;
+			public const int mtrl_ic_arrow_drop_down = 2131165329;
 			
 			// aapt resource value: 0x7F070092
-			public const int mtrl_ic_cancel = 2131165330;
+			public const int mtrl_ic_arrow_drop_up = 2131165330;
 			
 			// aapt resource value: 0x7F070093
-			public const int mtrl_ic_error = 2131165331;
+			public const int mtrl_ic_cancel = 2131165331;
 			
 			// aapt resource value: 0x7F070094
-			public const int mtrl_navigation_bar_item_background = 2131165332;
+			public const int mtrl_ic_error = 2131165332;
 			
 			// aapt resource value: 0x7F070095
-			public const int mtrl_popupmenu_background = 2131165333;
+			public const int mtrl_navigation_bar_item_background = 2131165333;
 			
 			// aapt resource value: 0x7F070096
-			public const int mtrl_popupmenu_background_dark = 2131165334;
+			public const int mtrl_popupmenu_background = 2131165334;
 			
 			// aapt resource value: 0x7F070097
-			public const int mtrl_tabs_default_indicator = 2131165335;
+			public const int mtrl_popupmenu_background_dark = 2131165335;
 			
 			// aapt resource value: 0x7F070098
-			public const int navigation_empty_icon = 2131165336;
+			public const int mtrl_tabs_default_indicator = 2131165336;
 			
 			// aapt resource value: 0x7F070099
-			public const int notification_action_background = 2131165337;
+			public const int navigation_empty_icon = 2131165337;
 			
 			// aapt resource value: 0x7F07009A
-			public const int notification_bg = 2131165338;
+			public const int notification_action_background = 2131165338;
 			
 			// aapt resource value: 0x7F07009B
-			public const int notification_bg_low = 2131165339;
+			public const int notification_bg = 2131165339;
 			
 			// aapt resource value: 0x7F07009C
-			public const int notification_bg_low_normal = 2131165340;
+			public const int notification_bg_low = 2131165340;
 			
 			// aapt resource value: 0x7F07009D
-			public const int notification_bg_low_pressed = 2131165341;
+			public const int notification_bg_low_normal = 2131165341;
 			
 			// aapt resource value: 0x7F07009E
-			public const int notification_bg_normal = 2131165342;
+			public const int notification_bg_low_pressed = 2131165342;
 			
 			// aapt resource value: 0x7F07009F
-			public const int notification_bg_normal_pressed = 2131165343;
+			public const int notification_bg_normal = 2131165343;
 			
 			// aapt resource value: 0x7F0700A0
-			public const int notification_icon_background = 2131165344;
+			public const int notification_bg_normal_pressed = 2131165344;
 			
 			// aapt resource value: 0x7F0700A1
-			public const int notification_template_icon_bg = 2131165345;
+			public const int notification_icon_background = 2131165345;
 			
 			// aapt resource value: 0x7F0700A2
-			public const int notification_template_icon_low_bg = 2131165346;
+			public const int notification_template_icon_bg = 2131165346;
 			
 			// aapt resource value: 0x7F0700A3
-			public const int notification_tile_bg = 2131165347;
+			public const int notification_template_icon_low_bg = 2131165347;
 			
 			// aapt resource value: 0x7F0700A4
-			public const int notify_panel_notification_icon_bg = 2131165348;
+			public const int notification_tile_bg = 2131165348;
 			
 			// aapt resource value: 0x7F0700A5
-			public const int preference_list_divider_material = 2131165349;
+			public const int notify_panel_notification_icon_bg = 2131165349;
 			
 			// aapt resource value: 0x7F0700A6
-			public const int test_custom_background = 2131165350;
+			public const int preference_list_divider_material = 2131165350;
 			
 			// aapt resource value: 0x7F0700A7
-			public const int tooltip_frame_dark = 2131165351;
+			public const int test_custom_background = 2131165351;
 			
 			// aapt resource value: 0x7F0700A8
-			public const int tooltip_frame_light = 2131165352;
+			public const int tooltip_frame_dark = 2131165352;
 			
 			// aapt resource value: 0x7F0700A9
-			public const int xamarin_logo = 2131165353;
+			public const int tooltip_frame_light = 2131165353;
+			
+			// aapt resource value: 0x7F0700AA
+			public const int xamarin_logo = 2131165354;
 			
 			static Drawable()
 			{
@@ -18930,20 +19178,23 @@ namespace FlowersApp.Droid
 		public partial class Mipmap
 		{
 			
-			// aapt resource value: 0x7F0C0002
-			public const int icon = 2131492866;
-			
 			// aapt resource value: 0x7F0C0003
-			public const int icon_round = 2131492867;
-			
-			// aapt resource value: 0x7F0C0000
-			public const int ic_action_flower = 2131492864;
-			
-			// aapt resource value: 0x7F0C0001
-			public const int ic_action_users = 2131492865;
+			public const int icon = 2131492867;
 			
 			// aapt resource value: 0x7F0C0004
-			public const int launcher_foreground = 2131492868;
+			public const int icon_round = 2131492868;
+			
+			// aapt resource value: 0x7F0C0000
+			public const int ic_action_assignment = 2131492864;
+			
+			// aapt resource value: 0x7F0C0001
+			public const int ic_action_flower = 2131492865;
+			
+			// aapt resource value: 0x7F0C0002
+			public const int ic_action_users = 2131492866;
+			
+			// aapt resource value: 0x7F0C0005
+			public const int launcher_foreground = 2131492869;
 			
 			static Mipmap()
 			{

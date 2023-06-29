@@ -8,12 +8,12 @@
                      Clicked="ToolbarItem_Clicked"/>
     </ContentPage.ToolbarItems>
 
-    <ListView x:Name="clientsListView">
+    <ListView x:Name="clientsListView"
+              ItemSelected="clientsListView_ItemSelected">
         <ListView.ItemTemplate>
             <DataTemplate>
-                <TextCell>
-                    
-                </TextCell>
+                <TextCell Text="{Binding Name}"
+                          Detail="{Binding Address}"/>
             </DataTemplate>
         </ListView.ItemTemplate>
     </ListView>

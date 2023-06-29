@@ -2,10 +2,13 @@
 <TabbedPage  xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:FlowersApp"
+             xmlns:flowersRegarding="clr-namespace:FlowersApp.FlowerRegardingPages"
              x:Class="FlowersApp.HomePage">
 
     <local:ClientsPage Title="Clients"
                        IconImageSource="ic_action_users.png"/>
     <local:OrdersPage Title="Orders"
-                      IconImageSource="ic_action_flower.png"/>
+                      IconImageSource="ic_action_assignment.png"/>
+    <flowersRegarding:FlowersPage Title="Flowers"
+                       IconImageSource="ic_action_flower.png"/>
 </TabbedPage>
