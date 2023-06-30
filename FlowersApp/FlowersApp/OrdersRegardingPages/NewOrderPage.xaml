@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FlowersApp.OrdersRegardingPages.NewOrderPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Picker x:Name="clientPicker"
+                    Title="Select Client"
+                    ItemDisplayBinding="{Binding Name}"/>
+            
+            <Label Text="Add flowers" />
+            <ListView x:Name="flowersListView">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid>
+                                <Picker x:Name="flowersPicker"
+                                        Title="{Binding Path=Key}"
+                                        ItemDisplayBinding="{Binding Items.TypeName}"
+                                        />
+                                <Button HorizontalOptions="End"
+                                        Text="Add" />
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

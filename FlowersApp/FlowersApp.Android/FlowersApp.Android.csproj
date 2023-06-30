@@ -71,6 +71,7 @@
     <Compile Include="Dependencies\AuthRepositoryDroid.cs" />
     <Compile Include="Dependencies\ClientRepositoryDroid.cs" />
     <Compile Include="Dependencies\FlowerRepositoryDroid.cs" />
+    <Compile Include="Dependencies\OrderRepositoryDroid.cs" />
     <Compile Include="MainActivity.cs" />
     <Compile Include="Resources\Resource.designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
